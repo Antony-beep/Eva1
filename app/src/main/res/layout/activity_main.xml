@@ -72,6 +72,7 @@
             android:textSize="20sp"
             android:layout_marginLeft="150dp"
             android:hint="N1"
+            android:inputType="number"
             android:id="@+id/edit_n1"/>
         <TextView
             android:id="@+id/textView3"
@@ -88,6 +89,7 @@
             android:layout_width="40dp"
             android:layout_height="wrap_content"
             android:textSize="20sp"
+            android:inputType="number"
             android:layout_marginLeft="150dp"
             android:hint="N2"/>
     </RelativeLayout>
@@ -137,6 +139,7 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:layout_marginLeft="150dp"
+            android:inputType="number"
             android:hint="L1"
             android:id="@+id/edit_L1"/>
         <TextView
@@ -155,6 +158,7 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:layout_marginLeft="150dp"
+            android:inputType="number"
             android:hint="L2"/>
         <TextView
             android:id="@+id/textView9"
@@ -172,6 +176,7 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:layout_marginLeft="150dp"
+            android:inputType="number"
             android:hint="L3"/>
         <TextView
             android:id="@+id/textView10"
@@ -186,6 +191,7 @@
             android:layout_below="@+id/edit_L3"
             android:layout_toRightOf="@+id/textView8"
             android:layout_width="40dp"
+            android:inputType="number"
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:layout_marginLeft="150dp"
