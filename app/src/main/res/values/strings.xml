@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Eva1</string>
+    <string name="app_name">Calculadora</string>
     <string-array name="sistema_evaluacion">
         <item>A:30% T+ 70% L</item>
         <item>B:40% T+ 60% L</item>
